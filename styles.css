@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(59, 212, 212, 0.699);
+    width: 100%;
+    margin: 0;
+
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    background-color: #5ab1fd;
+}
+
+li{
+    text-decoration: none;
+}
+
+.sub1{
+    text-decoration: none;
+}
